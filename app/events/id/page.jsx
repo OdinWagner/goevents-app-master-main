@@ -1,4 +1,5 @@
 // app/events/[id]/page.jsx
+import { events } from '@/data/events';
 import EventDetails from '@/components/EventDetails'; // On va créer ce composant
 import { events } from '@/data/events'; // On va créer ce fichier
 
